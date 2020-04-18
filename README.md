@@ -19,7 +19,7 @@ The resquisites and specifications will describe the most relevant steps and del
   * App icons
 * Prototypes
 
-Besides the conventional documentation, the Plan will also be supported by graphical tolls to produce more tangible descriptions/details about about the target interfaces' requirements (Wireframe, Mockups, Gifs, PhotoShop, etc.) 
+Besides the conventional documentation, the Plan will also be supported by graphical tolls to produce more tangible descriptions/details about the target interfaces' requirements (Wireframe, Mockups, GIFss, PhotoShop, etc.) 
 
 ![Capoeira Project Desciption](https://github.com/paulonegrao/capoeira-website/blob/master/images/project-description.png)
 
@@ -27,9 +27,9 @@ Besides the conventional documentation, the Plan will also be supported by graph
 The Plan comtemplates the confection of animated prototypes for both interfaces. The following links are animations (GIFs) exported from the original prototypes built using Adobe PhotoShopto for both interface versions:
 
 * [Web interface](https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif)
-* [Mobile interface](https://github.com/paulonegrao/capoeira-website/blob/master/images/PauloNegrao_mobile_version.gif)
+* ![Mobile interface](https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif)
 
-To access a prototype version of the Web interface version, click the image bellow:
+To access a prototype version of the Web interface, click the image bellow (this prototype is hosted as a Heroku application. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
 
 [![Capoeira Design Plan](https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png)](https://capoeira-website.herokuapp.com/)
 
