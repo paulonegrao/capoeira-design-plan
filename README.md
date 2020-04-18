@@ -26,14 +26,20 @@ Besides the conventional documentation, the Plan will also be supported by graph
 ## Demos & Prototypes
 The Plan comtemplates the confection of animated prototypes for both interfaces. The following links are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
 
-<ul>
-    <li>
-        <a heref="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif">Web interface
+<table>
+    <tr>
+        <td><a heref="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif">Web interface</a></td>
+        <td><a href="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif">Mobile interface</a></td>
+    </tr>
+    <tr>
+        <td>
             <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" height="250px"/>
-        </a>
-    </li>
-    <li>
-        <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif"alt="Mobile Interface" height="500px"/>
+        </td>
+        <td>
+            <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/>
+        </td>
+    </tr>
+</table>
 
 To access a prototype version of the Web interface, click the image bellow (this prototype is hosted as a Heroku application. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
 
