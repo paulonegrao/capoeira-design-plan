@@ -14,9 +14,9 @@ The resquisites and specifications will describe the most relevant steps and del
 * Wireframes
 * Mockups
 * Grapphics
-** Web Design Process
-** Mobile Design Process
-** App icons
+  * Web Design Process
+  * Mobile Design Process
+  * App icons
 * Prototypes
 
 Besides the conventional documentation, the Plan will also be supported by graphical tolls to produce more tangible descriptions/details about about the target interfaces' requirements (Wireframe, Mockups, Gifs, PhotoShop, etc.) 
@@ -26,9 +26,10 @@ Besides the conventional documentation, the Plan will also be supported by graph
 ## Demos & Prototypes
 The Plan comtemplates the confection of animated prototypes for both interfaces. The following links are animations (GIFs) exported from the original prototypes built using Adobe PhotoShopto for both interface versions:
 
-* [Web interface](https://github.com/paulonegrao/capoeira-design-plan/blob/master/PauloNegrao_web_version.gif)
-* [Mobile interface](https://github.com/paulonegrao/capoeira-website/blob/master/PauloNegrao_mobile_version.gif)
+* [Web interface](https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif)
+* [Mobile interface](https://github.com/paulonegrao/capoeira-website/blob/master/images/PauloNegrao_mobile_version.gif)
 
+To access a prototype version of the Web interface version, click the image bellow:
 
 [![Capoeira Design Plan](https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png)](https://capoeira-website.herokuapp.com/)
 
