@@ -26,7 +26,7 @@ Besides the conventional documentation, the Plan will also be supported by graph
 ## Demos & Prototypes
 The Plan comtemplates the confection of animated prototypes for both interfaces. The following links are animations (GIFs) exported from the original prototypes built using Adobe PhotoShopto for both interface versions:
 
-* [Web interface](https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif)
+* <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" heigth="200px"/>
 * ![Mobile interface](https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif)
 
 To access a prototype version of the Web interface, click the image bellow (this prototype is hosted as a Heroku application. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
