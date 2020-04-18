@@ -26,10 +26,10 @@ Besides the conventional documentation, the Plan will also be supported by graph
 ## Demos & Prototypes
 The Plan comtemplates the confection of animated prototypes for both interfaces. The following links are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
 
-<table>
+<table style="text-align:center">
     <tr>
-        <td><a heref="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif">Web interface</a></td>
-        <td><a href="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif">Mobile interface</a></td>
+        <td>Web interface</td>
+        <td>Mobile interface</td>
     </tr>
     <tr>
         <td>
