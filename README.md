@@ -27,11 +27,11 @@ Besides the conventional documentation, the Plan will also be supported by graph
 The Design Plan comtemplates the confection of animated models and prototypes to illustrate  interfaces' main features, functional requisites and UX aspects. The following images are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
 
 
-|:Web interface:|:Mobile interface:|
-|:<img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" height="250px"/>
-:|
-|:<img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/>
-:|
+Web interface | Mobile interface
+------------- | ----------------
+ <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" height="250px"/>
+|
+  <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/>
 
 To access a prototype version of the Web interface, click the image bellow (this prototype is hosted as a Heroku application. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
 
