@@ -30,7 +30,7 @@ The Design Plan comtemplates the confection of animated models and prototypes to
 | :-----------: | :--------------: |
 | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" width="500px"/> | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/> |
 
-To access a prototype version of the Web interface of Capoeira Website, click the image bellow (this prototype is an application hosted at Heroku. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
+To access a prototype version of the Web interface of Capoeira Website, click the image right bellow This prototype is an application hosted at Heroku. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond.
 
 <div align=center>
     <a href="https://capoeira-website.herokuapp.com/">
