@@ -30,7 +30,7 @@ The Design Plan comtemplates the confection of animated models and prototypes to
 
 | Web interface | Mobile interface |
 | :-----------: | :--------------: |
-| <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" width="250px"/> | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/> |
+| <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" width="500px"/> | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/> |
 
 </div>
 
