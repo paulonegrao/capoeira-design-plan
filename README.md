@@ -29,9 +29,7 @@ The Design Plan comtemplates the confection of animated models and prototypes to
 
 Web interface | Mobile interface
 ------------- | ----------------
- <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" height="250px"/>
-|
-  <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/>
+<img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" height="250px"/> | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/>
 
 To access a prototype version of the Web interface, click the image bellow (this prototype is hosted as a Heroku application. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
 
