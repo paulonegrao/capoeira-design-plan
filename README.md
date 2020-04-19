@@ -24,7 +24,7 @@ Besides the conventional documentation, the Plan will also be supported by graph
 ![Capoeira Project Desciption](https://github.com/paulonegrao/capoeira-website/blob/master/images/project-description.png)
 
 ## Demos & Prototypes
-The Plan comtemplates the confection of animated prototypes for both interfaces. The following links are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
+The Plan comtemplates the confection of animated prototypes for both interfaces. The following images are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
 
 <table style="margin-left: auto; margin-right: auto; text-align: center">
     <tr>
