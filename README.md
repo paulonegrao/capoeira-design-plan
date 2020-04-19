@@ -10,13 +10,14 @@ The resquisites and specifications will describe the most relevant steps and del
 * Audience
 * Concepts & Guidelines
 * Sitemap
-* Thumnails
+* Thumbnails
 * Wireframes
 * Mockups
-* Grapphics
+* Graphics
   * Web Design Process
   * Mobile Design Process
   * App icons
+* Animation models
 * Prototypes
 
 Besides the conventional documentation, the Plan will also be supported by graphical tolls to produce more tangible descriptions/details about the target interfaces' requirements (Wireframe, Mockups, GIFss, PhotoShop, etc.) 
