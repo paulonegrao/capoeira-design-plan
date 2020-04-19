@@ -26,8 +26,8 @@ Besides the conventional documentation, the Plan will also be supported by graph
 ## Demos & Prototypes
 The Plan comtemplates the confection of animated prototypes for both interfaces. The following links are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
 
-<table style="text-align:center">
-    <tr>
+<table style="margin-left: auto; margin-right: auto">
+    <tr  style="text-align: center">
         <td>Web interface</td>
         <td>Mobile interface</td>
     </tr>
