@@ -25,11 +25,11 @@ Besides the conventional documentation, the Plan will also be supported by graph
 
 ## Demos & Prototypes
 The Plan comtemplates the confection of animated prototypes for both interfaces. The following images are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
-<div style="align: center">
+<p style="align: center">
     <table>
         <tr>
-            <td align="center">Web interface</td>
-            <td align="center">Mobile interface</td>
+            <td>Web interface</td>
+            <td>Mobile interface</td>
         </tr>
         <tr>
             <td>
@@ -40,7 +40,7 @@ The Plan comtemplates the confection of animated prototypes for both interfaces.
             </td>
         </tr>
     </table>
-</div>
+</p>
 
 To access a prototype version of the Web interface, click the image bellow (this prototype is hosted as a Heroku application. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
 
