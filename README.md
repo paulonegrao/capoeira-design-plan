@@ -24,8 +24,9 @@ Besides the conventional documentation, the Plan will also be supported by graph
 ![Capoeira Project Desciption](https://github.com/paulonegrao/capoeira-website/blob/master/images/project-description.png)
 
 ## Demos & Prototypes
-The Plan comtemplates the confection of animated prototypes for both interfaces. The following images are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
+The Design Plan comtemplates the confection of animated models and prototypes to illustrate  interfaces' main features, functional requisites and UX aspects. The following images are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
 
+<center>
 <table>
     <tr>
         <td>Web interface</td>
@@ -40,7 +41,7 @@ The Plan comtemplates the confection of animated prototypes for both interfaces.
         </td>
     </tr>
 </table>
-
+</center>
 
 To access a prototype version of the Web interface, click the image bellow (this prototype is hosted as a Heroku application. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
 
