@@ -26,19 +26,17 @@ Besides the conventional documentation, the Plan will also be supported by graph
 ## Demos & Prototypes
 The Design Plan comtemplates the confection of animated models and prototypes to illustrate  interfaces' main features, functional requisites and UX aspects. The following images are animations (GIFs) exported from the original prototypes built using Adobe PhotoShop for both interface versions:
 
-<div align="center">
-
 | Web interface | Mobile interface |
 | :-----------: | :--------------: |
 | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" width="500px"/> | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/> |
 
+To access a prototype version of the Web interface of Capoeira Website, click the image bellow (this prototype is an application hosted at Heroku. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
+
+<div align=center>
+    <a href="https://capoeira-website.herokuapp.com/">Capoeira - Web Interface
+        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" />
+    </a>
 </div>
-
-To access a prototype version of the Web interface, click the image bellow (this prototype is an application hosted at Heroku. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
-
-<p align=center>
-[![Capoeira Design Plan](https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png)](https://capoeira-website.herokuapp.com/)
-</p>
 
 ## Specifications
 More detail about the Design Plan requisites and specifications (sitemap, mockups, wireframes, graphic prototypes, etc.) can Desing be found at:
