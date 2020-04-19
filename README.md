@@ -33,8 +33,8 @@ The Design Plan comtemplates the confection of animated models and prototypes to
 To access a prototype version of the Web interface of Capoeira Website, click the image bellow (this prototype is an application hosted at Heroku. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond):
 
 <div align=center>
-    <a href="https://capoeira-website.herokuapp.com/">Capoeira - Web Interface
-        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" />
+    <a href="https://capoeira-website.herokuapp.com/">
+        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" width="500px" />
     </a>
 </div>
 
