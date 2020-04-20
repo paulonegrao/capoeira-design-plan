@@ -35,7 +35,7 @@ To access a prototype version of the Web interface of Capoeira Website, click th
 
 <div align=center>
     <a href="https://capoeira-website.herokuapp.com/">
-        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" height="auto" />
+        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" width="auto" />
     </a>
 </div>
 
