@@ -39,6 +39,8 @@ To access a prototype version of the Web interface of Capoeira Website, click th
     </a>
 </div>
 
+Here is a link to the GitHub repository of the [Capoeira Website](https://github.com/paulonegrao/capoeira-website)]
+
 ## Specifications
 More detail about the Design Plan requisites and specifications (sitemap, mockups, wireframes, graphic prototypes, etc.) can be found at:
 
