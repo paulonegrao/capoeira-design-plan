@@ -38,7 +38,7 @@ To access a prototype version of the Web interface of Capoeira Website, click th
         <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" width="650px" />
     </a>
 </div>
-
+<br>
 
 Here is a link to the GitHub repository of the [Capoeira Website](https://github.com/paulonegrao/capoeira-website) project.
 
