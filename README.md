@@ -29,13 +29,13 @@ The Design Plan comtemplates the production of animated models and prototypes to
 
 | Web interface | Mobile interface |
 | :-----------: | :--------------: |
-| <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" height="auto"/> | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/> |
+| <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_web_version.gif" alt="Web Interface" width="70%"/> | <img src="https://github.com/paulonegrao/capoeira-design-plan/blob/master/images/PauloNegrao_mobile_version.gif" alt="Mobile Interface" height="500px"/> |
 
 To access a prototype version of the Web interface of Capoeira Website, click the image right bellow This prototype is an application hosted at Heroku. The app will be automatically started by Heroku in case it is not already running. In this case, the link will take some extra seconds to respond.
 
 <div align=center>
     <a href="https://capoeira-website.herokuapp.com/">
-        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" width="auto" />
+        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" width="70%" />
     </a>
 </div>
 
